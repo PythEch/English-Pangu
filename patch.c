@@ -12,6 +12,8 @@
 //
 //  0. You just DO WHAT THE FUCK YOU WANT TO.
 
+// Memory dump: https://ghostbin.com/paste/mpqzq
+
 #include <stdio.h>
 #include <string.h>
 
